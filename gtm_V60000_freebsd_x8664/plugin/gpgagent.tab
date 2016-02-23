@@ -1,0 +1,2 @@
+/usr/local/lib/fis-gtm/V6.0-000_x86_64/plugin/libgtmcrypt.so
+unmaskpwd: xc_status_t gc_pk_mask_unmask_passwd_interlude(I:xc_string_t*,O:xc_string_t*[512],I:xc_int_t)
